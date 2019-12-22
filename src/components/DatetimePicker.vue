@@ -77,10 +77,6 @@ const OUTPUT_TYPE_TIMESTAMP = 'timestamp'
 
 export default {
   name: 'v-datetime-picker',
-  // model: {
-  //   prop: 'datetime',
-  //   event: 'input'
-  // },
   props: {
     value: {
       type: [Date, String, Number],
