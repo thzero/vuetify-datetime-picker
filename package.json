@@ -52,6 +52,7 @@
   },
   "dependencies": {
     "date-fns": "^2.1.0",
+    "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vuetify": "^2.1.3"
   }
